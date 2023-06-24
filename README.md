@@ -3,11 +3,18 @@
 ### Description :
 
 ````
-Upon registration, each new user will be provided with a personal account to store their uploaded photos. The program utilizes cookies to determine and access the appropriate user folder for data storage. During registration, the user's name, email address, and hashed password are securely stored. Once registered, users can view their uploaded photos within their account.
+Upon registration, each new user will be provided with a personal account to store their uploaded photos.
+The program utilizes cookies to determine and access the appropriate user folder for data storage.
+During registration, the user's name, email address, and hashed password are securely stored.
+Once registered, users can view their uploaded photos within their account.
 
-To enhance privacy and security, the program automatically deletes the cookies when the user leaves the application. The lifespan of the cookies is set to 2 hours, after which the program switches to the login mode, requiring users to log in again to access their account and photos. This ensures that only authorized users can access their data and adds an additional layer of protection to the user's account.
+To enhance privacy and security, the program automatically deletes the cookies when the user leaves the application.
+The lifespan of the cookies is set to 2 hours, after which the program switches to the login mode,
+requiring users to log in again to access their account and photos.
+This ensures that only authorized users can access their data and adds an additional layer of protection to the user's account.
 
-By implementing these measures, the program offers a user-friendly and secure environment for individuals to register, store their photos, and conveniently access them within their personal account.
+By implementing these measures, the program offers a user-friendly and secure environment for individuals to register,
+store their photos, and conveniently access them within their personal account.
 ````
 ![](https://github.com/SvitLanaSvit/Step_Academy_User_Application_With_Register_Login_Photos_Upload_Show_List_of_photos_Dz6/blob/main/picturesForGitHub/1.jpg)
 ![](https://github.com/SvitLanaSvit/Step_Academy_User_Application_With_Register_Login_Photos_Upload_Show_List_of_photos_Dz6/blob/main/picturesForGitHub/2.jpg)
