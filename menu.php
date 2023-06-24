@@ -94,7 +94,7 @@
             $str = "$user->username:$user->email:$hashedPassword";
             fwrite($fd, $str . PHP_EOL);
             fclose($fd);
-            echo "<div class='info' style='color: green;'>Registration was successful!</div>";
+            echo "<div class='info' style='color: green; text-align: center'>Registration was successful!</div>";
         }
 
         function hashPassword($password){

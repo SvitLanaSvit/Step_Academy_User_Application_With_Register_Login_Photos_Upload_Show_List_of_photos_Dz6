@@ -1,2 +1,4 @@
 ivan:info@kadroom.com:$2y$10$OE5O1/eei7jZy8pyrbYOZO9R2nLYrls3TqSlRvdWlP/im8HpV6agG
 SvitLana13:svetlichnaya.org@gmail.com:$2y$10$hMBYO6QwLtGshT7q32GMIuZhzJkjAihhzTycq3sedopECjHwNeFzG
+kkk:kkk@gmail.com:$2y$10$Jztbxu8WQPVmlSMMe4UNfe9kvhxtpm6Hujr7O7R/.JkNg1n2QgAxC
+hhh:hhhh@gmail.com:$2y$10$KvV0q0UVYn0xsOD9t9JY0Oj3DsmkCaSTJJopEjHPEd8YsOK0z/jHW
